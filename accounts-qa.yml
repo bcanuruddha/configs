@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+author:
+  authorName: qa Chanaka Anuruddha
+  contactInfo:
+    1: qa073467868
+    2: qa823758366
+  otherNames:
+    - name1 qa
+    - name2 qa
